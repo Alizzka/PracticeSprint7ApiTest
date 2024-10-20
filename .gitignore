@@ -1,0 +1,13 @@
+.allure/
+.idea/
+main/
+generated-sources/
+generated-test-sources/
+maven-status/
+surefire-reports/
+allure-results/
+data/
+export/
+history/
+plugins/
+widgets/
